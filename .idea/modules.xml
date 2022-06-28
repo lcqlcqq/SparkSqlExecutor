@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySparkSqlExec/MySparkSqlExec.iml" filepath="$PROJECT_DIR$/MySparkSqlExec/MySparkSqlExec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkJdbc/SparkJdbc.iml" filepath="$PROJECT_DIR$/SparkJdbc/SparkJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkUserDefinedFunction/SparkUserDefinedFunction.iml" filepath="$PROJECT_DIR$/SparkUserDefinedFunction/SparkUserDefinedFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCount/WordCount.iml" filepath="$PROJECT_DIR$/WordCount/WordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-demo/spark-demo.iml" filepath="$PROJECT_DIR$/spark-demo/spark-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2.iml" filepath="$PROJECT_DIR$/week2.iml" />
+    </modules>
+  </component>
+</project>
